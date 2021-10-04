@@ -18,7 +18,7 @@ apt-get install nodejs -y
 git clone https://github.com/LoliKillers/photoxy-api
 cd photoxy-api
 npm install
-npm start or node index.nodejs
+npm start or node index.js
 ```
 
 # Note
