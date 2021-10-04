@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/LoliKillers/photoxy-api#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.5",
     "cors": "^2.8.5",
