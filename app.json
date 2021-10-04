@@ -1,0 +1,7 @@
+{
+  "name": "photoxy-api",
+  "description": "Simple Rest Api Photo Oxy",
+  "repository": "https://github.com/LoliKillers/photoxy-api",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["api", "web", "photoxy"]
+}
