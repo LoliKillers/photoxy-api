@@ -1,0 +1,36 @@
+{
+  "name": "photoxy-api",
+  "version": "1.0.0",
+  "description": "web rest api's simple photo oxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoliKillers/photoxy-api.git"
+  },
+  "keywords": [
+    "photo-oxy",
+    "rest-api",
+    "web"
+  ],
+  "author": "LoliKillers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoliKillers/photoxy-api/issues"
+  },
+  "homepage": "https://github.com/LoliKillers/photoxy-api#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "serve-favicon": "^2.5.0",
+    "ssl-express-www": "^3.0.7"
+  }
+}
