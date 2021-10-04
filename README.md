@@ -1,5 +1,5 @@
 # Photo Oxy Api's
-This is a simple rest api script [photo oxy](https;//photooxy.com)
+This is a simple rest api script [photo oxy](https://photooxy.com)
 
 If you want to use it then please, I made this for free, not for sale.
 
